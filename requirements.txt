@@ -1,0 +1,8 @@
+flask
+pandas
+scikit-learn
+xgboost
+joblib
+python-dotenv
+pytest
+gunicorn
